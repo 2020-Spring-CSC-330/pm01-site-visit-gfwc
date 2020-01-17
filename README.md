@@ -19,8 +19,8 @@ Our team was able to visit the site the day we were given the assignment. The Be
 FIRST MEETING
 Mrs. Heggen agreed to meet with us Friday, Jan 17 in our Database Systems classroom. 
 During this meeting, we plan on discussing the following 5 questions:
-    1) What does this system look like to you?
-    2) What are the NEEDS for the system? 
-    3) What are the WANTS for the system?
-    4) In what ways do you hope this system will benefit your organization?
-    5) What are your expectations from us as a group for this semester?
+    1. What does this system look like to you?
+    2. What are the NEEDS for the system? 
+    3. What are the WANTS for the system?
+    4. In what ways do you hope this system will benefit your organization?
+    5. What are your expectations from us as a group for this semester?
